@@ -36,7 +36,7 @@ export class Counter extends Component {
                     { color: "#FF0000" }
                 }> Go home </button>
             </LinkContainer>
-
+            <p style={{ color: "red", marginTop:"400px" }}> sample text </p>
       </div>
     );
   }
