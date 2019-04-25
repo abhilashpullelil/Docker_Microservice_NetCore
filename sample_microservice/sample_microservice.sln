@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sample_microservice", "samp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "react", "react\react.csproj", "{4623AE75-A0D7-40EB-8ED3-3CA1E6250C77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "react-redux", "react-redux\react-redux.csproj", "{F7C8524E-4254-4895-A8FD-AB94BD05E68A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "react-redux", "react-redux\react-redux.csproj", "{F7C8524E-4254-4895-A8FD-AB94BD05E68A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWebAPI", "CoreWebAPI\CoreWebAPI.csproj", "{73043F45-B21C-4D3B-A902-300BE1CDEA34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F7C8524E-4254-4895-A8FD-AB94BD05E68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7C8524E-4254-4895-A8FD-AB94BD05E68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7C8524E-4254-4895-A8FD-AB94BD05E68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73043F45-B21C-4D3B-A902-300BE1CDEA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73043F45-B21C-4D3B-A902-300BE1CDEA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73043F45-B21C-4D3B-A902-300BE1CDEA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73043F45-B21C-4D3B-A902-300BE1CDEA34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
